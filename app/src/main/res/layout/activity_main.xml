@@ -33,4 +33,10 @@
         android:layout_height="wrap_content"
         android:text="Hello World! (D)" />
 
+    <TextView
+        android:layout_margin="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World! (E)" />
+
 </LinearLayout>
