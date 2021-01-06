@@ -21,4 +21,10 @@
         android:layout_height="wrap_content"
         android:text="Hello World! (B)" />
 
+    <TextView
+        android:layout_margin="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World! (C)" />
+
 </LinearLayout>
